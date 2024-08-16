@@ -1,4 +1,4 @@
-package com.lc.location.start;
+package com.lc.location;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
